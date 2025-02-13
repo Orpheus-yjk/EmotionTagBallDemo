@@ -24,4 +24,5 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 # monitor
-![this is result](application.png)
+![this is monitor](application.png)
+![this is page](application2.png)
